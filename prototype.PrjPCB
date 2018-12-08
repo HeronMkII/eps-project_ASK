@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YFNVJCNL
 
 [Document2]
-DocumentPath=..\pcbs\libraries\heron-general.IntLib
+DocumentPath=prototype.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SEUMEVBB
 
 [Configuration1]
 Name=Sources
@@ -190,7 +190,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP DeskJet 2130 series
+TargetPrinter=HP2AD409 (HP DeskJet 3700 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
